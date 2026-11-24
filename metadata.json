@@ -1,0 +1,6 @@
+{
+  "name": "WEB DIGITAL SMP NEGERI 3 PAKUHAJI",
+  "description": "Portal web sekolah digital dan sistem informasi akademik terintegrasi SMP Negeri 3 Pakuhaji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
